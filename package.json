@@ -17,7 +17,7 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.5",
     "babel-loader": "^8.1.0",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.29.3",
     "chrome-launcher": "^0.13.1",
     "circular-dependency-plugin": "^5.2.0",
     "del": "^5.1.0",
